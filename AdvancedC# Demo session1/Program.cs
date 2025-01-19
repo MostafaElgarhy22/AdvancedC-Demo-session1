@@ -49,9 +49,29 @@
 
             //***************** HashTable Carry only Unique items *******************
 
-            #endregion 
+            #endregion
 
+            #region BubbleSort Example and other
 
+            //int[] Numbers = [9, 4, 10, 6, 2, 8, 5, 1, 3, 7];
+
+            //Helper<char>.BubbleSort(Numbers);
+
+            //foreach (int i in Numbers)
+            //    Console.WriteLine(i);
+
+            //Employee[] employees =
+            //{
+            //    new Employee() {Id = 10, Name = "Ahmed",Salary =6_000},
+            //    new Employee() {Id = 20, Name = "Omar",Salary =7_000},
+            //    new Employee() {Id = 30, Name = "Ziad",Salary =9_000},
+            //    new Employee() {Id = 40, Name = "Reem",Salary =4_000},
+            //};
+
+            //Helper<Employee>.BubbleSort(employees);
+            
+
+            #endregion
         }
     }
 }
